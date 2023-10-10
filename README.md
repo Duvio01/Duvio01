@@ -1,4 +1,4 @@
-<h1>Hola mi nombre es Duvan Ramirez</h1>
+<h1 style="background-color: 'red'">Hola mi nombre es Duvan Ramirez 👋🏾 👩🏾‍💻</h1>
 
 <p>Quien Soy</p>
 <span>Soy Full Stack Developer, con conocimiento en JavaScript, HTML, CSS, Angular Typescript, React, Node, entre otras tecnologías. Experiencia en desarrollo de páginas web, trabajando en equipo mediante tecnologías Scrum y realizando optimización de los procesos de desarrollo.</span>
@@ -36,6 +36,6 @@
 <p>Para mas informacion</p>
 <span>Me puedes contactar por medio de:</span>
 <br><br/>
-<a href="www.linkedin.com/in/jeison-duvan-ramirez">Linkedin</a>
+<a href="www.linkedin.com/in/jeison-duvan-ramirez">Linkedin</a> 💼
 <br><br/>
-<span>Correo: jerdate01@hotmail.com</span> 
+<span>Correo: jerdate01@hotmail.com</span> 📹 ✍🏾
